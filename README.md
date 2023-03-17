@@ -1,4 +1,4 @@
-# ita-frontend-course
+# ITA-FRONTEND-COURSE
 
 ## Part 1: HTML and CSS Fundamentals (3 months) 
 <details>
